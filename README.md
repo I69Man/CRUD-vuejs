@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+npx  json-server --watch data/db.json
 npm install
 ```
 
