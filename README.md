@@ -2,8 +2,12 @@
 
 ## Project setup
 ```
-npx  json-server --watch data/db.json
 npm install
+
+data by json in file data source code
+1.npm install json-server
+2.npx  json-server --watch data/db.json
+
 ```
 
 ### Compiles and hot-reloads for development
